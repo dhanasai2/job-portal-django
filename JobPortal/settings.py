@@ -11,12 +11,12 @@ SECRET_KEY = 'aralxt83cxseu%+7%(-wx3qrtf+xjrq64zg9lxw&88coqr3ha*'
 DEBUG = True
 
 # Allowed hosts - Update with Render deployment URL
-ALLOWED_HOSTS = ['.railway.app', '127.0.0.1', 'job-portal-django-1.onrender.com']
+ALLOWED_HOSTS = ['.render.app', '127.0.0.1', 'job-portal-django-3.onrender.com']
 
 # Add CSRF Trusted Origins
 CSRF_TRUSTED_ORIGINS = [
-    'https://web-production-222af.up.railway.app',
-    'https://job-portal-django-1.onrender.com'
+   
+    'https://job-portal-django-3.onrender.com'
 ]
 
 # Application definition

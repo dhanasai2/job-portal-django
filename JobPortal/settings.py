@@ -15,6 +15,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['.railway.app', '127.0.0.1']
 
+# Add CSRF Trusted Origins
+CSRF_TRUSTED_ORIGINS = ['https://web-production-222af.up.railway.app']
+
 # Application definition
 INSTALLED_APPS = [
     'django.contrib.admin',

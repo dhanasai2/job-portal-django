@@ -119,8 +119,7 @@ This project is licensed under the **MIT License**.
 
 ## 🤝 Connect with Me
 
-📧 Email: your-email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-🐦 [Twitter](https://twitter.com/your-profile)  
+📧 Email: saaigundumogula5email.com  
+🔗 [LinkedIn] www.linkedin.com/in/dhana-sai 
 
 ---

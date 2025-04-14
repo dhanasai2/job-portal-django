@@ -120,7 +120,7 @@ This project is licensed under the **MIT License**.
 
 ## 🤝 Connect with Me
 
-📧 Email: saaigundumogula5email.com  
+📧 Email: saaigundumogula5@email.com  
 🔗 [LinkedIn] www.linkedin.com/in/dhana-sai 
 
 ---
